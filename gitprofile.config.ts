@@ -51,11 +51,9 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Jason Rich', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: ' ',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -65,14 +63,14 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'jnrich@bu.edu',
   },
   resume: {
     fileUrl:
@@ -96,18 +94,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'ANT61 Satellite Robotics',
+      position: 'PCB Design Intern',
+      from: 'January 2025',
+      to: 'June 2025',
+      companyLink: 'https://www.ant61.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'BU UAV Team',
+      position: 'Vice President, Director of Engineering',
+      from: 'April 2024',
+      to: 'Present',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -120,10 +118,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Boston University',
+      degree: 'B.S. Electrical Engineering',
+      from: '2023',
+      to: '2027',
     },
     {
       institution: 'Institution Name',
@@ -134,13 +132,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Fine Particle Pollution Filtering Face Mask Suitable For Aerobic Exercise',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'USPTO',
+      authors: 'Jaosn Rich',
+      link: 'US 12,263,364B2',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '',
     },
     {
       title: 'Publication Title',
