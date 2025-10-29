@@ -5,7 +5,7 @@ const CONFIG = {
     username: 'Jasonr164', // Your GitHub org/user name. (This is the only required config)
   },
   themeConfig: {
-    defaultTheme: 'Retro',
+    defaultTheme: 'retro',
     // ...
   },
   /**
